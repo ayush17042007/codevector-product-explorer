@@ -1,0 +1,50 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+venv/
+.venv/
+env/
+
+# FastAPI
+
+*.log
+
+# Environment Variables
+
+.env
+frontend/.env.local
+
+# Node.js
+
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# VS Code
+
+.vscode/
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+# Coverage
+
+.coverage
+htmlcov/
+
+# Build Artifacts
+
+dist/
+build/
+
+# Misc
+
+*.swp
+*.swo
